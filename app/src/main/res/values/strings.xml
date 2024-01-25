@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidApplication</string>
+    <string name="btnLogIn">Log In</string>
+    <string name="btnLogOut">Log Out</string>
+    <string name="info">Welcome to the Application</string>
+    <string name="hintUsername">Username</string>
+    <string name="hintPassword">Password</string>
+    <string name="a2text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend imperdiet sodales. Aliquam tempor mauris lorem, vel pulvinar lacus imperdiet non. Sed leo nisl, feugiat id risus ac, mattis aliquam ex. Donec quis ultrices erat. Praesent eu tortor non enim vehicula mollis nec ac lorem. Pellentesque ornare finibus augue, ut porttitor orci pellentesque a. Maecenas felis nisi, eleifend a velit sed, mollis pharetra libero. Aliquam erat volutpat. </string>
+</resources>
